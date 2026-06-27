@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dharavath Sandya — a Data Science & AI undergrad passionate about building intelligent systems and turning raw data into actionable insights.<br>🔧 I work with Python · Pandas · NumPy · Scikit-learn · TensorFlow · SQL · Flask<br><br>🤖 I love building ML pipelines, NLP systems & AI-powered applications<br><br>☁️ Experienced with Microsoft Azure AI Services for real-world deployments<br><br>🏆 Harvard CS50 AI · DeepLearning.AI · Kaggle certified<br><br>📍 Gujarat, India | Open to internships & collaborations
+👋 Hi, I'm Dharavath Sandya — a Data Science & AI undergrad passionate about building intelligent systems and turning raw data into actionable insights.<br>🔧 I work with Python · Pandas · NumPy · Scikit-learn · TensorFlow · SQL · Flask<br><br>🤖 I love building ML pipelines, NLP systems & AI-powered applications<br><br>🏆 Harvard CS50 AI · DeepLearning.AI · Kaggle certified<br><br>📍 Gujarat, India | Open to internships & collaborations
 
 
 ## 🌐 Socials:
